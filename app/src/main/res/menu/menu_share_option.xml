@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.pallavi.shareit.UserLogin">
+    <item
+        android:id="@+id/share_friends"
+        android:orderInCategory="100"
+        android:title="Friends"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/share_fb"
+        android:orderInCategory="100"
+        android:title="Facebook"
+        app:showAsAction="never" />
+</menu>

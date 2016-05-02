@@ -16,5 +16,6 @@
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="Organic_ButtonBar_AlertDialog" parent="@android:style/Holo.ButtonBar.AlertDialog"/>
 
 </resources>

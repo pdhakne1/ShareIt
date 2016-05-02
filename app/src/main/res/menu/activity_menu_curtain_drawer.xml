@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_edit_profile"
+            android:icon="@drawable/ic_menu_edit_profile_24dp"
+            android:title="Edit Profile" />
+        <item
+            android:id="@+id/nav_inbox"
+            android:icon="@drawable/ic_inbox_24dp"
+            android:title="Inbox" />
+        <item
+            android:id="@+id/nav_view_moments"
+            android:icon="@drawable/ic_menu_view_jar"
+            android:title="View Moments" />
+        <item
+            android:id="@+id/nav_add_friends"
+            android:icon="@drawable/ic_menu_create_jar"
+            android:title="Add Friends" />
+        <!--item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Camera" />
+        <item
+            android:id="@+id/nav_audio"
+            android:icon="@drawable/ic_menu_audio"
+            android:title="Audio" />
+        <item
+            android:id="@+id/nav_text"
+            android:icon="@drawable/ic_menu_text_message"
+            android:title="Text" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Gallery" />
+
+        <item
+            android:id="@+id/nav_reminder"
+            android:icon="@drawable/ic_menu_reminder"
+            android:title="Reminder" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings_24dp"
+            android:title="Settings" /-->
+        <item
+            android:id="@+id/nav_uninstall"
+            android:icon="@drawable/ic_menu_uninstall"
+            android:title="Uninstall" />
+    </group>
+
+</menu>

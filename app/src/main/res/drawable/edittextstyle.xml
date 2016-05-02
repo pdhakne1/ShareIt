@@ -1,0 +1,7 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:top="32dp">
+        <shape >
+            <solid android:color="#7C4DFF"  />
+        </shape>
+    </item>
+</layer-list>
